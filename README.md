@@ -12,5 +12,5 @@
 
 - [x] Diagrama de Dominio.
 - [x] Diagrama de Atividade.
-- [ ] Modelo de Casos de Uso.
+- [x] Modelo de Casos de Uso.
 - [ ] Protótipo da Aplicação.
