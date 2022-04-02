@@ -13,4 +13,14 @@
 - [x] Diagrama de Dominio.
 - [x] Diagrama de Atividade.
 - [x] Modelo de Casos de Uso.
-- [ ] Protótipo da Aplicação.
+- [x] Protótipo da Aplicação.
+- [x] Especificação Caso de Uso
+- [x] Diagrama Atividade de cada Especificação 
+
+```
+Copyright ©
+Universidade Presbiteriana Mackenzie
+Beatriz Vieira Alves - TIA 32118929
+Letícia do Carmo Souza Silva - TIA 32157843
+Rafael Guizelini Guerino - TIA 32131501
+```
